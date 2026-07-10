@@ -4,7 +4,7 @@ Desarrollador Web Junior enfocado en backend y con conocimientos en frontend, ac
 
 - 🔭 Actualmente trabajando en **RoyaSoft**, una app web para digitalizar procesos de monitoreo en empresas floricultoras.
 - 🌱 Aprendiendo C# y .NET en paralelo.
-- 📫 Contáctame: jr9385197@gmail.com
+- 📫 Contáctame: jr9385197@gmail.com - +57 3207341961
 
 ## 🛠️ Tech Stack
 
