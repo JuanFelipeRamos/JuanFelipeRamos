@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Juan Felipe Ramos 👋
 
-<!--
-**JuanFelipeRamos/JuanFelipeRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Web Junior enfocado en backend y con conocimientos en frontend, actualmente en búsqueda de mi primera oportunidad como desarrollador backend/fullstack.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente trabajando en **RoyaSoft**, una app web para digitalizar procesos de monitoreo en empresas floricultoras.
+- 🌱 Aprendiendo C# y .NET en paralelo.
+- 📫 Contáctame: jr9385197@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Backend:** Python · Django · Django REST Framework  
+**Frontend:** Vue.js · JavaScript  
+**Base de datos:** MySQL  
+**Herramientas:** Git · GitHub · Figma  
+**Aprendiendo:** C# · .NET
+
+## 🚀 Proyecto destacado: RoyaSoft
+
+Aplicación web para digitalizar el proceso de monitoreo de simulacros de roya blanca en empresas floricultoras. Incluye autenticación con código de seguridad y CRUD completo para gestión de monitores y registros de monitoreo.
+
+*Código fuente privado por tratarse de un producto en fase de comercialización.*
+
+**Stack:** Django REST Framework (backend) · Vue.js (frontend) · MySQL
+
+---
+
+📍 Cesar, Colombia
