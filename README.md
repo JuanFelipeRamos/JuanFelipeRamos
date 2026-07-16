@@ -1,6 +1,6 @@
 # ¡Hola! Soy Juan Felipe Ramos 👋
 
-Desarrollador Web Junior enfocado en backend y con conocimientos en frontend, actualmente en búsqueda de mi primera oportunidad como desarrollador backend/fullstack.
+Desarrollador Web Junior enfocado en backend y con conocimientos en frontend.
 
 - 🔭 Actualmente trabajando en **RoyaSoft**, una app web para digitalizar procesos de monitoreo en empresas floricultoras.
 - 🌱 Aprendiendo C# y .NET en paralelo.
