@@ -24,4 +24,4 @@ Aplicación web para digitalizar el proceso de monitoreo de simulacros de roya b
 
 ---
 
-📍 Cesar, Colombia
+📍 Colombia
